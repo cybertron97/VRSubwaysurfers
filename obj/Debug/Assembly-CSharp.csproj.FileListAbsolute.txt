@@ -1,0 +1,2 @@
+F:\New folder\CS135Lab2-master\CS135Lab2-master\Lab1Part2\CS135_lab2_1\Run\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\New folder\CS135Lab2-master\CS135Lab2-master\Lab1Part2\CS135_lab2_1\Run\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
